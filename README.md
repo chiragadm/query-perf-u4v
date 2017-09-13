@@ -16,7 +16,7 @@ Following are prerequisites for this CLI program.
   * $ cd SOME_DIRECTORY (Directory that you want to install this program)
   * $ git clone https://URL
 
-  # Setting up configuration file (fabview.cfg):
+  # Setting up variables:
   Once the script is installed in directory as per above instruction, now it is time to configure the script variables. You will need to uncomment following variable and update them as per your environment.
   * unimaxURI
   * username 
